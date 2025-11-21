@@ -1,7 +1,7 @@
 const tBody = document.querySelector("tbody");
 
 const xhr = new XMLHttpRequest();
-xhr.open("GET", "/group/group_members.json");
+xhr.open("GET", "group_members.json");
 xhr.onreadystatechange = function() {
     if( this.readyState === 4 && this.status === 200 ) {
         const data = JSON.parse(xhr.responseText);
