@@ -30,6 +30,13 @@
         ]
     },
     {
+        "name": "Mazen Salah",
+        "roles": [
+            "Designer",
+            "Images collector"
+        ]
+    },
+    {
         "name": "Eman Ali",
         "roles": [
             "Designer",
@@ -54,13 +61,6 @@
         "name": "Omar AlHadary",
         "roles": [
             "Presenter"
-        ]
-    },
-    {
-        "name": "Mazen Salah",
-        "roles": [
-            "Designer",
-            "Images collector"
         ]
     },
     {
