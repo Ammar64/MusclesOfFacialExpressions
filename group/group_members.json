@@ -2,153 +2,137 @@
     {
         "name": "Habiba Kandil",
         "roles": [
-            "Images collector",
             "Designer",
-            "Information summarizer"
+            "Summarizer",
+            "Images collector"
         ]
     },
-
     {
         "name": "Ammar Ramadan",
         "roles": [
             "Web developer",
-            "Images collector",
-            "Researcher",
-            "Presenter (Probably)"
-        ]
-    },
-
-    {
-        "name": "Omar AlHadary",
-        "roles": [
+            "Designer",
             "Images collector"
         ]
     },
-
-    {
-        "name": "Eman Ali",
-        "roles": [
-            "Images collector",
-            "Designer"
-        ]
-    },
-
     {
         "name": "Mohammed Mesbah",
         "roles": [
-            "Presenter (Probably)",
-            "Designer",
-            "Information summarizer"
+            "Presenter",
+            "Designer"
         ]
     },
-
     {
-        "name": "Mazen Salah",
+        "name": "Eman Mohammed",
         "roles": [
+            "Presenter",
+            "Designer"
+        ]
+    },
+    {
+        "name": "Eman Ali",
+        "roles": [
+            "Designer",
             "Images collector"
         ]
     },
-
-    {
-        "name": "Dareen Amr",
-        "roles": [
-            "Images collector",
-            "Presenter"
-        ]
-    },
-    
     {
         "name": "Hagar Amr",
         "roles": [
-            "Researcher"
+            "Researcher",
+            "Reviewer"
         ]
     },
-
+    {
+        "name": "Mariam Magdy",
+        "roles": [
+            "Presenter",
+            "Reviewer"
+        ]
+    },
+    {
+        "name": "Omar AlHadary",
+        "roles": [
+            "Presenter"
+        ]
+    },
+    {
+        "name": "Mazen Salah",
+        "roles": [
+            "Designer",
+            "Images collector"
+        ]
+    },
+    {
+        "name": "Dareen Amr",
+        "roles": [
+            "Presenter"
+        ]
+    },
     {
         "name": "Heba Mohammed",
         "roles": [
             "Reseacher"
         ]
     },
-
     {
         "name": "Nadeen Ayman",
         "roles": [
             "Presenter"
         ]
     },
-
     {
         "name": "Eman Ashraf",
         "roles": [
-            "QR Code (probably)",
-            "Print poster"
+            "Reseacher"
         ]
     },
-
-    {
-        "name": "Ahmed Abdulhameed",
-        "roles": [
-            "Print poster"
-        ]
-    },
-
     {
         "name": "Aya Mohammed",
         "roles": [
-            "Information summarizer",
             "Designer"
         ]
     },
-
-    {
-        "name": "Eyad Ahmed",
-        "roles": [
-            "Researcher"
-        ]
-    },
-
     {
         "name": "Raghad Alaa",
         "roles": [
-            "Researcher"
+            "Images collector"
         ]
     },
-
     {
         "name": "Ali Ahmed",
         "roles": [
             "Images collector"
         ]
     },
-
     {
         "name": "Nour Magdy",
         "roles": [
             "Images collector"
         ]
     },
-
-    {
-        "name": "Mariam Magdy",
-        "roles": [
-            "Presenter"
-        ]
-    },
-
-    {
-        "name": "Eman Mohammed",
-        "roles": [
-            "Presenter"
-        ]
-    },
-
     {
         "name": "Mahmoud Reda",
         "roles": [
             "Presenter"
         ]
+    },
+    {
+        "name": "Anwar Yahya",
+        "roles": [
+            "Designer"
+        ]
+    },
+    {
+        "name": "Ahmed Abdulhameed",
+        "roles": [
+            "Print poster"
+        ]
+    },
+    {
+        "name": "Ahmed Tawfiq",
+        "roles": [
+            "Print poster"
+        ]
     }
-
-
 ]
